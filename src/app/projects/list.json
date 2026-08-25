@@ -1,15 +1,16 @@
 [
 	{
-		"name": "箭头生成小工具",
-		"year": 2026,
-		"image": "/images/project/03c08b1832f36f02.png",
-		"url": "https://currve-arrow.yysuni.com/",
-		"description": "实时生成弧线箭头 SVG，可用于图表绘制，也可用于设计取材。没想到这也被周刊看上。",
+		"name": "Blockies",
+		"year": 2023,
+		"description": " Blockies React组件，SVG 实现，用于生成区块链地址的图标。这是我的第一个有人用的组件，虽然人不多",
+		"image": "/images/blockies.svg",
+		"url": "https://blockies-react-svg.vercel.app/",
 		"tags": [
-			"arrow",
-			"阮周刊"
+			"React",
+			"SVG",
+			"Blockies"
 		],
-		"github": "https://github.com/YYsuni/curve-arrow",
-		"npm": "https://www.npmjs.com/package/curve-arrow"
+		"github": "https://github.com/YYsuni/blockies-react-svg",
+		"npm": "https://www.npmjs.com/package/blockies-react-svg"
 	}
 ]
