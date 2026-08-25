@@ -1,17 +1,16 @@
 [
 	{
-		"name": "灯火不休时",
-		"avatar": "https://file.dhbxs.top/ylvwvjjs.jpg",
-		"url": "https://blog.dhbxs.top/",
-		"description": "群友，JAVAR，干净blog，让我看到几个人的影子。",
-		"stars": 3,
-		"status": "disconnected"
-	},
-	{
 		"name": "Yu Yoshimuta",
 		"avatar": "/images/blogger/ea2c4d167f669b68.webp",
 		"url": "https://yuyoshimuta.com/",
 		"description": "几何体设计的语言艺术",
 		"stars": 4
+	},
+	{
+		"name": "稚晖的个人站",
+		"avatar": "https://zhihui.lingjun.life/logo.jpg",
+		"url": "https://zhihui.lingjun.life/",
+		"description": "“十年饮冰，难凉热血”",
+		"stars": 5
 	}
 ]
